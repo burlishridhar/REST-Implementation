@@ -1,0 +1,87 @@
+.logo-header{
+	padding-bottom: 9px;
+  	margin: 40px 0 20px;
+}
+
+
+.category_list{
+	padding: 0;
+	margin: 0px;
+}
+
+.category_list li{
+	list-style-type: none;
+	font-size: 24px;
+	width: 250px;
+	height: 70px;
+	background-color: #99b433;
+	border: 5px solid #ffffff;
+}
+
+.item_list{
+	padding: 0;
+	margin: 0px;
+}
+
+.item_list li{
+	list-style-type: none;
+	font-size: 16px;
+	width: 250px;
+	height: 70px;
+	background-color: #1BA1E2;
+	border: 5px solid #ffffff;
+	padding-right: 10px;
+}
+
+.review_list{
+	padding: 0;
+	margin: 0px;
+
+}
+
+.review_list li{
+	list-style-type: none;
+	font-size: 14px;
+	width: 250px;
+	height: 60px;
+	background-color: #e3a21a;
+	border: 5px solid #ffffff;
+}
+
+
+.element-custom{
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.category_list li:hover, .item_list li:hover, .review_list li:hover{
+	background-color: #cccccc;
+}
+
+.clitem{
+	
+}
+
+.ilitem{
+	
+}
+
+.rlitem{
+	
+}
+
+.glyphsize{
+	font-size: 1em;
+}
+
+.glyphicon-none:before {
+    content: "\2122";
+    color: transparent !important;
+}
+
+.review-item{
+	
+}
